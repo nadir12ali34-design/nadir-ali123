@@ -1,0 +1,6 @@
+{
+  "name": "Sell Products",
+  "description": "A modern app to list, showcase, and manage products for sale locally with a beautiful design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
